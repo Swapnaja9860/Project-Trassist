@@ -134,7 +134,56 @@ _INSTRUCTIONS: The following deliverables are suggested, but **optional**. Addit
 
 ### How to run the project
 
-INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+#### To start the frontend server
+
+From the root directory :
+
+```bash
+cd frontend-ionic-app
+npm install
+npm ionic server
+```
+The frontend server is now running at <http://localhost:8100>
+
+#### To start the backend server
+
+_If it's your first time running the server, create a virtual environment and install the required libs._
+
+create a conda env and activate it
+```
+conda create --name trassist_backend python=3.10
+conda activate trassist_backend
+```
+
+Install the libraries
+```
+cd Project-Trassist
+pip install -r requiremnets.txt
+```
+
+create .env file at the same level as app.py :
+
+```bash
+API_KEY=
+
+CLOUDANT_USERNAME= 
+CLOUDANT_PASSWORD= 
+CLOUDANT_URL=
+
+COS_ENDPOINT=  
+COS_API_KEY_ID=  
+COS_INSTANCE_CRN= 
+BUCKET_NAME= 
+```
+
+From the root directory :
+
+```bash
+# after activating the env
+python app.py
+```
+
+The backend server is now running at <http://localhost:5000>
 
 ### Live demo
 
