@@ -50,7 +50,7 @@ The above figure explains how to use app in detail.
 -	After submitting the final list, the app will show an approximate reward value based on that day's waste rate. The user can see waste rates from the rate card available on the home screen or from the side panel options. Along with the reward points, the app displays the amount of carbon footprint the user has helped us in reducing, a sustainable step towards saving the environment.
 -	The reward value shown is an approximate calculation which will be confirmed by the trash collector once they inspect and weigh the trash during collection. This is how pickup is scheduled. The trash collector will then contact the user and come to their doorstep to collect the segregated waste. 
 -	When the trash collector arrives, the user needs to provide them with the segregated waste. The trash collector will bag it and weigh it. Once the waste is submitted, the rewards will be added to the user's account. The user can convert these reward points to cash or donate them to NGOs as per their liking.
--	
+  
 #### How is trash processed?
 After collecting trash from the user’s doorstep, it will be transported to specific waste recycling stations. We have a number of waste recycling stations connected with our service, and we try to reduce carbon footprint by optimizing those transportation paths.
 
