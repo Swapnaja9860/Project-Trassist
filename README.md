@@ -41,7 +41,7 @@ We have designed a system to reduce trash going to landfills by seggregating and
 We have created a mobile application called Trassit to reach out to users and collect their household trash.
 
 #### How the app works?
-<img width="907" alt="app_intro" src="https://github.com/Swapnaja9860/Project-Trassist/assets/101620916/34119b5d-a9c8-4ab1-9bcb-dd1ae367e70f">
+<img width="907" alt="app_intro" src="https://github.com/Swapnaja9860/Project-Trassist/images/Project_Roadmap.png">
 
 The above figure explains how to use app in detail.
 
@@ -125,7 +125,7 @@ The project currently does the following things.
 In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
-<img width="658" alt="Roadmap" src="https://github.com/Swapnaja9860/Project-Trassist/assets/101620916/ec20f93f-a5e9-46ab-bd92-9aace5f58302">
+<img width="658" alt="Roadmap" src="https://github.com/Swapnaja9860/Project-Trassist/images/app_intro.png">
 
 
 ## Additional details
