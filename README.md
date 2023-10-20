@@ -13,8 +13,9 @@
   - [Project development roadmap](#project-development-roadmap)
 - [Additional details](#additional-details)
   - [How to run the project](#how-to-run-the-project)
-- [About this template](#about-this-template)
   - [Contributing](#contributing)
+  - [Contact Details](#contact)
+    
 
 ## Project summary
 
@@ -186,8 +187,15 @@ The backend server is now running at <http://localhost:5000>
 
 See our [description document](./docs/DESCRIPTION.md) for log in credentials.
 
-## About this template
-
 ### Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pull requests to us.
+
+### Contact
+Contact us by email to ask questions, discuss more about project and implementation. <br/>
+The contact emails are:
+1. Yogesh Jadhav (yogesh_jadhav2@persistent.com)
+2. Swapnaja Achintalwar (swapnaja_achintalwar@persistent.com)
+3. Mahendra Swain (praveenkumar_d@persistent.com)
+4. Ashu Gulati (ashu_gulati@persistent.com)
+5. Praveen Kumar (mahendra_swain@persistent.com)
