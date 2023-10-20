@@ -13,7 +13,6 @@
   - [Project development roadmap](#project-development-roadmap)
 - [Additional details](#additional-details)
   - [How to run the project](#how-to-run-the-project)
-  - [Live demo](#live-demo)
 - [About this template](#about-this-template)
   - [Contributing](#contributing)
 
@@ -106,8 +105,6 @@ Diagram and step-by-step description of the flow of our solution:
 
 ## Presentation materials
 
-_INSTRUCTIONS: The following deliverables should be officially posted to your My Team > Submissions section of the [Call for Code Global Challenge resources site](https://cfc-prod.skillsnetwork.site/), but you can also include them here for completeness. Replace the examples seen here with your own deliverable links._
-
 ### Solution demo video
 
 [![Watch the video](images/youtube_trassist_image.png)](https://www.youtube.com/watch?v=hSL6RowUMt0)
@@ -128,7 +125,7 @@ The project currently does the following things.
 In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
-<img width="658" alt="Roadmap" src="https://github.com/ashugulati-work/Project-Trassist/assets/101620916/ec20f93f-a5e9-46ab-bd92-9aace5f58302">
+<img width="658" alt="Roadmap" src="https://github.com/Swapnaja9860/Project-Trassist/assets/101620916/ec20f93f-a5e9-46ab-bd92-9aace5f58302">
 
 
 ## Additional details
@@ -186,15 +183,7 @@ python app.py
 
 The backend server is now running at <http://localhost:5000>
 
-### Live demo
-
-You can find a running system to test at...
-
 See our [description document](./docs/DESCRIPTION.md) for log in credentials.
-
----
-
-_INSTRUCTIONS: You can remove the below section from your specific project README._
 
 ## About this template
 
