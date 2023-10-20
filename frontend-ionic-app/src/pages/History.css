@@ -1,0 +1,69 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 8px;
+    font-size: 12px;
+  }
+  
+  tr:nth-child(even) {background-color: #f2f2f2;}
+
+  .table-div {
+    overflow-x: auto;
+  }
+
+.boxcontainer {
+    position: relative;
+    top: 8px;
+    display: grid;
+    grid-template-columns: 1.2fr 1.6fr 1.6fr 1fr;
+    gap: 0.5px;
+    padding: 3px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+
+  .box-1 {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+  }
+
+  .box-2 {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+  }
+
+  .box-3 {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+  }
+
+  .box-4 {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+  }
+
+.history-th {
+    text-align: right !important;
+    font-size: 15px;
+}
+
+.history-weight-th {
+    text-align: right !important;
+    position: relative;
+    font-size: 15px;
+}
+
+.history-tr {
+    background-color: lightgrey;
+}
+
+ion-toolbar {
+  --ion-background-color: darkseagreen !important;
+}

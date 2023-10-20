@@ -1,0 +1,7 @@
+.login-toolbar {
+    --background-color: #4e72b0;
+}
+
+ion-toolbar {
+    --ion-background-color: darkseagreen !important;
+}

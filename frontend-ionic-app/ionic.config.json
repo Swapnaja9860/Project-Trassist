@@ -1,0 +1,7 @@
+{
+  "name": "Trassist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

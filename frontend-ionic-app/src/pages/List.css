@@ -1,0 +1,76 @@
+/* ion-item::part(detail-icon) {
+  color: #ff00ff;
+  opacity: 1;
+} */
+
+.camera-icon-label {
+  font-size: 13px !important;
+}
+
+ion-item {
+  --padding-start: 3px;
+}
+
+.tap-camera-head {
+  font-weight: 500px;
+}
+
+.tap-camera {
+  font-size: 14px;
+}
+
+.profile-lable {
+  font-weight: 600;
+}
+
+.input-css {
+  position: relative;
+  top: 20px;
+  color: maroon;
+  font-weight: 600;
+}
+
+#loading {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  border: 5px solid darkgreen;
+  border-radius: 50%;
+  border-top-color: #fff;
+  animation: spin 1s ease-in-out infinite;
+  -webkit-animation: spin 1s ease-in-out infinite;
+  position: fixed;
+  top: 32%;
+  left: 45%;
+
+}
+
+@keyframes spin {
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes spin {
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+.trassist_logo {
+  position: relative;
+  width: 200px;
+  float: left;
+  height: 50px;
+  right: 50px;
+}
+
+ion-toolbar {
+  --ion-background-color: darkseagreen !important;
+}
+
+.list-image {
+  position: relative;
+  height: 52px;
+  right: 115px;
+}

@@ -1,0 +1,53 @@
+.swiper {
+  height: 100vh;
+}
+.swiper-slide img {
+  height: 40vh;
+  margin-bottom: 40px;
+}
+
+.swiper-slide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.intro-welcome {
+  font-weight: 600;
+  font-size: 15px !important;
+}
+
+.selected-photo-css {
+  height: 150px !important;
+}
+
+.intro-ai {
+  font-weight: bold;
+  font-size: 16px !important;
+  color: darkblue;
+}
+
+.intro-txt {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.intro-desc {
+  width: 340px;
+  color: dimgrey;
+}
+
+.into-thumnail {
+  width: 165px;
+  position: relative;
+  margin: 8px;
+}
+
+.intro-thumnail-img {
+  position: relative;
+  object-fit: fill;
+  height: 60px !important;
+  bottom: 12px;
+}

@@ -1,0 +1,103 @@
+.weight_input {
+    position: relative;
+    width: 55px;
+}
+
+.span-kg {
+    position: relative;
+    left: 1px;
+}
+
+.title-list {
+    font-size: 13px;
+    position: relative;
+    text-align: center;
+    font-weight: 600;
+}
+
+.confrim-label {
+    font-size: 13px !important;
+    font-weight: 600 !important;
+}
+
+ion-toolbar {
+    --ion-background-color: darkseagreen !important;
+}
+
+.calculate-total {
+    position: relative;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.calculate-total-price {
+    position: relative;
+    font-size: 15px;
+    float: right;
+    bottom: 29px;
+    left: 8px;
+    color: darkgreen;
+    font-weight: 700;
+}
+
+.calculate-btn {
+    position: relative;
+    left: 54px;
+}
+
+.confrim-reward {
+    position: relative;
+    color: green;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.confirm-chip {
+    position: relative;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.confrim-delete {
+    position: relative;
+    left: 2px;
+    cursor: pointer;
+}
+
+.info-message{
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: saddlebrown;
+    text-align: center;
+    line-height: 15px;
+}
+
+.confrim-delete {
+    position: relative;
+    left: 2px;
+    cursor: pointer;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
