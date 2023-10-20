@@ -109,8 +109,8 @@ Diagram and step-by-step description of the flow of our solution:
 
 [![Watch the video](images/youtube_trassist_image.png)](https://www.youtube.com/watch?v=hSL6RowUMt0)
 
-### PPT
-[PPT](docs/Trassist_presentation.pdf)
+### PowerPoint presentation
+Please review the attached [PPT](docs/Trassist_presentation.pdf) for a comprehensive understanding of the project.
 
 ### Project development roadmap
 
