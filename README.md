@@ -25,58 +25,62 @@
 
 ### The issue we are hoping to solve
 
-- Waste management is a major challenge facing both India and the world. 
+- Waste management is a major challenge faced both in India and the world. 
 - The World Bank estimates that 2.12 billion tons of waste are dumped in landfills worldwide each year, with the US, China, and India accounting for over half of this.
-- Most of the waste is recyclable, and even some of it, such as plastic, can be converted into fuel. However, due to improper waste management, most of the waste ends up in landfills.
+- Most of the waste is recyclable, and even some of it such as plastic, can be converted into fuel. However, due to improper waste management, most of the waste ends up in the landfills.
 - There are four main pain points of waste management:
 
-      1. Lack of awareness
+      1. Lack of Awareness
       2. Segregation
       3. Collection
-      4. Lack of traceability
-- Our solution addresses all of these pain points and creates an effective waste management system that avoids trash going to landfills and promotes recycling.
+      4. Lack of Traceability
+- Our solution addresses all of these pain points and creates an effective waste management system that avoids trash going to the landfills and promotes recycling.
 
 ### How our technology solution can help
 
-We are designing a system to reduce trash going to landfills by collecting it at the source and transferring it to recycling stations.
+We have designed a system to reduce trash going to landfills by seggregating and collecting it at the source and transferring it to the recycling stations.
 
 ### Our idea
 
 #### Trassist Application
-We have created a mobile application called Trassit to reach out to users and collect trash from them.
-#### How app works?
+We have created a mobile application called Trassit to reach out to users and collect their household trash.
+
+#### How the app works?
 <img width="907" alt="app_intro" src="https://github.com/ashugulati-work/Project-Trassist/assets/101620916/34119b5d-a9c8-4ab1-9bcb-dd1ae367e70f">
 
-Above figure explain how to use app in detail.
+The above figure explains how to use app in detail.
 
--	After logging in, users can schedule a pickup to give trash to ‘Trassit’. To do this, users need to click and upload pictures of their household trash in the app. Once pictures get uploaded, AI-based Vision Model will run at backend to identify what type of trash user wish to provide.
--	This redirects the user to the next page, where they will see a complete list of the identified waste. Users need to add the approximate weight of each trash type. If an item is not detected by the model, or if an irrelevant item is detected, users can add or remove it manually.
--	After submitting the final list, it will show the approximate reward value based on that day's waste rate. The user can see waste rates from the rate card available on the home screen or from the side panel options. Along with the reward, it will also show how many carbon footprints will be avoided by providing trash for recycling.
--	Reward value shown is approximate and will be confirmed by the trash collector when they inspect and weigh the trash during collection. This is how pickup is scheduled. The trash collector will then contact the user and come to their doorstep to collect the segregated waste. 
--	When the trash collector arrives, the user needs to provide them with the segregated waste. The trash collector will then bag it and weigh it. Once the waste is submitted, the rewards will be added to the user's account. The user can then convert these rewards to cash or donate them to NGOs as per their convenience.
-#### How is Trash processed
-After collecting trash from user’s doorstep, it will be transported to specific waste recycling stations. We have a number of waste recycling stations connected with our service, and we try to reduce carbon footprints by optimizing transportation paths.
+-	After logging in, a user can schedule a pickup to give away their trash to ‘Trassist’. To do this, the user needs to click and upload pictures of their household trash in the app. Once the pictures get uploaded, AI-based Vision Model will run in the backend to identify each type of trash that matches the list defined in the system.
+-	This redirects the user to the next page where they will see a complete list of identified trash wherein the user needs to add an approximate weight for the listed trash items. If an item is not detected by the model, or if an irrelevant item is detected, user can add or remove it manually.
+-	After submitting the final list, the app will show an approximate reward value based on that day's waste rate. The user can see waste rates from the rate card available on the home screen or from the side panel options. Along with the reward points, the app displays the amount of carbon footprint the user has helped us in reducing, a sustainable step towards saving the environment.
+-	The reward value shown is an approximate calculation which will be confirmed by the trash collector once they inspect and weigh the trash during collection. This is how pickup is scheduled. The trash collector will then contact the user and come to their doorstep to collect the segregated waste. 
+-	When the trash collector arrives, the user needs to provide them with the segregated waste. The trash collector will bag it and weigh it. Once the waste is submitted, the rewards will be added to the user's account. The user can convert these reward points to cash or donate them to NGOs as per their liking.
+-	
+#### How is trash processed?
+After collecting trash from the user’s doorstep, it will be transported to specific waste recycling stations. We have a number of waste recycling stations connected with our service, and we try to reduce carbon footprint by optimizing those transportation paths.
 
-#### How rewards calculated?
-- We have buying rates for each type of trash, including plastic, electronic waste, paper, metal, glass, and textile. The rate card is displayed on the homepage.
-- When user provide the approximate weight of trash for each category, the total rewards will be calculated by multiplying the approximate weight by the rate of that trash on that day.
+#### How are rewards calculated?
+- We have different buying rates for each type of trash, including plastic, electronic waste, paper, metal, glass, and textile. The rate card is displayed on the homepage.
+- When a user provides the approximate weight of trash for each category, the total rewards are calculated by multiplying the approximate weight by the rate of that given trash on that day.
 - Please note that the amount shown on the screen is an approximate amount. It will be updated by the trash collector after they weigh and inspect the trash.
 
-#### How are funds generated to give rewards to user?
--	We are collaborating with local government Municipal corporations to implement our service.
+#### How are funds generated to provide rewards to the users?
+-	We will be collaborating with local government Municipal Corporations to implement our service.
 -	Also, we will get some funds from waste recycling industries. 
--	The main source of fund will be by trading Carbon Credits. 
-####Business value associated with project:
+-	The main source of fund will be by trading Carbon Credits.
+-	Following a unique way(decentralized) of distribution of fund/rewards across each entity like company, trash collector and user, will be the ideal approach to be undertaken.
+  
+#### Business value associated with project
 -	According to the current market scenario, data is the new fuel. We will generate a huge amount of authenticated data, which will be useful for a number of industries, from the manufacturing sector to the waste recycling sector, as well as for the government.
--	Will reduce cost of waste collection and transportation by optimizing trash flows from generation points to waste recycle stations.
--	Users will be benefited by providing waste. 
--	Ultimately, a huge amount of waste will be avoided from being dumped in landfills, which will help to make the world a better place to live.
-#### Other aspects of App: 
--	Users can check how much trash they provided for recycling in the past in the history tab on the side panel.
--	The user education guide is provided on the side panel, to teach users about trash segregation and how ‘Trassit’ works.
--	Users can see comprehensive visualizations generated through the Watson-X AI visualization platform. It can consider data on waste generated individually, as well as for specific geographic locations, societies, and regions, so users and societies can compete to reduce their carbon footprints.
--	Twitter sentiments, emotions, and keywords around the topic of Waste Management are generated using IBM Natural Language Understanding and are shown under Trending tab on side panel. 
-
+-	It will reduce cost of waste collection and transportation by optimizing the trash flows from generation points to waste recycling stations.
+-	Users will be benefited with rewards in exchange of waste.
+-	Ultimately, a huge amount of waste will be avoided from being dumped into the landfills, which in turn will help us make the world a better place to live.
+  
+#### Other aspects of Trassist App
+-	Users can check how much trash they have provided for recycling in the past under the History tab on the side panel.
+-	A User Guide is provided on the side panel, to educate the users about trash segregation and how ‘Trassit’ works.
+-	Users can see comprehensive visualizations generated through IBM watsonx.ai visualization platform. It can consider data on waste generated individually, as well as for specific geographic locations, societies, and regions, so users and societies can compete to reduce their carbon footprints.
+-	Twitter sentiments, emotions, and keywords around the topic of Waste Management are generated using IBM Natural Language Understanding and are shown under the Trending tab on the side panel. 
 
 
 ## Technology implementation
@@ -93,7 +97,7 @@ After collecting trash from user’s doorstep, it will be transported to specifi
 
 ### Solution architecture
 
-![Trassist_architecture](https://github.com/ashugulati-work/Project-Trassist/assets/125637093/0694d8b2-0d5f-4ad7-961b-42b18a52769c)
+![Trassist_architecture](images/Trassist_architecture.png)
 
 
 Diagram and step-by-step description of the flow of our solution:
@@ -110,7 +114,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](images/youtube_trassist_image.png)](https://www.youtube.com/watch?v=hSL6RowUMt0)
 
 ### Project development roadmap
 
@@ -129,8 +133,6 @@ See below for our proposed schedule on next steps after Call for Code 2023 submi
 
 
 ## Additional details
-
-_INSTRUCTIONS: The following deliverables are suggested, but **optional**. Additional details like this can help the judges better review your solution. Remove any sections you are not using._
 
 ### How to run the project
 
@@ -200,23 +202,3 @@ _INSTRUCTIONS: You can remove the below section from your specific project READM
 ### Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-### Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-### Authors
-
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-### License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
