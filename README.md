@@ -14,7 +14,7 @@
 - [Additional details](#additional-details)
   - [How to run the project](#how-to-run-the-project)
   - [Contributing](#contributing)
-  - [Contact Details](#contact)
+  - [Contact Details](#contacts)
     
 
 ## Project summary
@@ -191,7 +191,7 @@ See our [description document](./docs/DESCRIPTION.md) for log in credentials.
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pull requests to us.
 
-### Contact
+### Contacts
 Contact us by email to ask questions, discuss more about project and implementation. <br/>
 The contact emails are:
 1. Yogesh Jadhav (yogesh_jadhav2@persistent.com)
