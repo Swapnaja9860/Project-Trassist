@@ -16,10 +16,6 @@
   - [Live demo](#live-demo)
 - [About this template](#about-this-template)
   - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Project summary
 
@@ -46,7 +42,7 @@ We have designed a system to reduce trash going to landfills by seggregating and
 We have created a mobile application called Trassit to reach out to users and collect their household trash.
 
 #### How the app works?
-<img width="907" alt="app_intro" src="https://github.com/ashugulati-work/Project-Trassist/assets/101620916/34119b5d-a9c8-4ab1-9bcb-dd1ae367e70f">
+<img width="907" alt="app_intro" src="https://github.com/Swapnaja9860/Project-Trassist/assets/101620916/34119b5d-a9c8-4ab1-9bcb-dd1ae367e70f">
 
 The above figure explains how to use app in detail.
 
@@ -115,6 +111,9 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 ### Solution demo video
 
 [![Watch the video](images/youtube_trassist_image.png)](https://www.youtube.com/watch?v=hSL6RowUMt0)
+
+### PPT
+[PPT](docs/Trassist_presentation.pdf)
 
 ### Project development roadmap
 
