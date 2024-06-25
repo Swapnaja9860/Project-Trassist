@@ -190,12 +190,3 @@ See our [description document](./docs/DESCRIPTION.md) for log in credentials.
 ### Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pull requests to us.
-
-### Contacts
-Contact us by email to ask questions, discuss more about project and implementation. <br/>
-The contact emails are:
-1. Yogesh Jadhav (yogesh_jadhav2@persistent.com)
-2. Swapnaja Achintalwar (swapnaja_achintalwar@persistent.com)
-3. Mahendra Swain (praveenkumar_d@persistent.com)
-4. Ashu Gulati (ashu_gulati@persistent.com)
-5. Praveen Kumar (mahendra_swain@persistent.com)
